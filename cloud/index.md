@@ -8,3 +8,5 @@ permalink: /cloud/
 ## Cloud
 
 Blah blah blah.
+
+Foo.
