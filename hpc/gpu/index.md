@@ -8,3 +8,5 @@ permalink: /hpc/gpu/
 ## GPU
 
 Blah blah blah.
+
+Foo.
