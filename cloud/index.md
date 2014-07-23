@@ -9,4 +9,5 @@ permalink: /cloud/
 
 Blah blah blah.
 
-Foo.
+Foo. Bar.
+
